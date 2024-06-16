@@ -1,5 +1,5 @@
 import mysql.connector
-user = 'r'
+user = 'root'
 password = ''
 host = 'localhost'
 database = 'Northwind'
